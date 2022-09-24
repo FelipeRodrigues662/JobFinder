@@ -1,5 +1,5 @@
 # JobFinder
-
+![PREVIW](./Readme/1.gif)
 ## Installation
 
 1 - Clone do Repositorio .
