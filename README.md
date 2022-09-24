@@ -13,11 +13,19 @@
 
     npm install 
 
-## Desenvolvedor
+## Formas de Iniciar
 
 1 - Caso queira iniciar o servidor e fazer alterações simultaneas.
 
     npm run dev
+
+2 - Outra Forma
+
+    node app.js
+
+## Template
+
+https://feliperodrigues662.github.io/JobFinder/index.html
 
 ## Tecnologias
 
@@ -27,3 +35,4 @@
 - Body parser
 - Sequelize
 - Sqlite3
+
